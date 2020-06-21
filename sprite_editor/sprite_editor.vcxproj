@@ -20,10 +20,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="cApp.cpp" />
+    <ClCompile Include="cCanvas.cpp" />
+    <ClCompile Include="cEditorFrame.cpp" />
     <ClCompile Include="cMain.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cApp.h" />
+    <ClInclude Include="cCanvas.h" />
+    <ClInclude Include="cEditorFrame.h" />
     <ClInclude Include="cMain.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
